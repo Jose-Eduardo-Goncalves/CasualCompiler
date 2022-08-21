@@ -1,0 +1,3 @@
+def Ex(a:Int):Int {
+	return a;
+}

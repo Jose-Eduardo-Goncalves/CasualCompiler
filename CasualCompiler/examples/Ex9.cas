@@ -1,0 +1,8 @@
+def Ex(a:Int):Int {
+	a:Int = [1];
+	return a[0];
+}
+
+def Ex1():Int {
+	return Ex(4);
+}

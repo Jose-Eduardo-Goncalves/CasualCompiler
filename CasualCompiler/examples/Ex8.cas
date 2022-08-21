@@ -1,0 +1,12 @@
+def Ex():Int {
+	a:Int = [1];
+	return a[0];
+}
+
+def Ex1():String {
+	return Ex();
+}
+
+def Ex2():Int {
+	return Ex3();
+}

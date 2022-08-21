@@ -1,0 +1,5 @@
+def Ex():Int{
+    decl Ex():Int;
+    a = 0;
+    return 1;
+}

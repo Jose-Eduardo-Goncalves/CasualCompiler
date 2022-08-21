@@ -1,0 +1,4 @@
+def Ex():Int {
+	a:Int = [1];
+	return a[0];
+}
